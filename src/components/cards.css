@@ -1,0 +1,23 @@
+.adm-list-item-content-main{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    
+    letter-spacing: 0.5px;
+    
+    color: #333333;
+
+}
+
+.adm-capsule-tabs-content{
+    padding: 0;
+}
+
+.adm-list-default .adm-list-body{
+    border: none;
+}
+.adm-search-bar .adm-search-bar-input-box{
+    border: none; 
+    font-weight: 700;
+    border-radius: 16px;
+}
